@@ -16,9 +16,14 @@ body{
 }
 
 
-/**a{
+a {
+	color: #000;
+}
+
+a:hover{
 	color: #999999;
 }
+
 a:hover{
 	color: #dddddd;
 }
